@@ -27,3 +27,9 @@ input {
 button {
   margin-top: 2rem!important;
 }
+
+p {
+  color: #ed2424;
+  font-size: 0.85em;
+  font-weight: bold;
+}
